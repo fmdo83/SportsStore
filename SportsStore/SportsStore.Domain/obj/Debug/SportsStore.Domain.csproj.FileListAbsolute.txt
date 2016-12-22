@@ -1,0 +1,11 @@
+C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\Ninject.dll
+C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\Ninject.xml
+C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\Castle.Core.dll
+C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\Moq.dll
+C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\Castle.Core.xml
+C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\Moq.xml

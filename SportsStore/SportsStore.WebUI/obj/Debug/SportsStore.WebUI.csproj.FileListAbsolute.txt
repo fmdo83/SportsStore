@@ -60,3 +60,7 @@ C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.WebUI\bin\Castle.C
 C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.WebUI\bin\Moq.dll
 C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.WebUI\bin\Castle.Core.xml
 C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.WebUI\bin\Moq.xml
+C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml

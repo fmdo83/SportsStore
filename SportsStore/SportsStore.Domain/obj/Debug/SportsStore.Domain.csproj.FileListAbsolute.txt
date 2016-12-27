@@ -9,3 +9,8 @@ C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\C
 C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\Moq.dll
 C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\Castle.Core.xml
 C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\Moq.xml
+C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\fdalessio\GitHub\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
